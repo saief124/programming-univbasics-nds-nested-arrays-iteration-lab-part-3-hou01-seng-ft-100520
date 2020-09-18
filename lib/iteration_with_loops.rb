@@ -11,7 +11,8 @@ while row_index<src.count do
     element_index +=1
     end
   end
-  row_index+=1
+  
 end
+row_index+=1
 total
 end
